@@ -12,7 +12,7 @@ Obs: 9321
 06. D: =1 if enrolled in OHP Standard (=S*Q)
 07. Age at 2008
 08. Age^2/100
-09. Medicost: ln(real medical care cost last 6 months)
+09. Medicost: ln(real medical care cost last 6 months+1)
 10. Female
 11. White
 12. Msa: =1 if living at the metropolitan statistical area
