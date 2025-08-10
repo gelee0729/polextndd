@@ -1,4 +1,4 @@
-*! Eugene Lee, Myoung-jae Lee, and Goeun Lee, "Extending Policies to Control Groups or Past Periods in Nonlinear Difference in Differences", 2025.
+*! Eugene Lee, Myoung-jae Lee, and Goeun Lee, "Extending Policies to Control Groups or Past Periods in Nonlinear Difference in Differences", Applied Economics, 2025, forthcoming.
 *! version 0.0.1 04aug2026
 
 set more off
