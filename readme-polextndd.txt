@@ -1,4 +1,4 @@
-Replication code for "Extending Policies to Control Groups or Past Periods in Nonlinear Difference in Differences" by Eugene Lee, Myoung-jae Lee, and Goeun Lee (2025)
+Replication code for "Extending Policies to Control Groups or Past Periods in Nonlinear Difference in Differences" by Eugene Lee, Myoung-jae Lee, and Goeun Lee (Applied Economics, 2025, forthcoming)
 
 The code file called "polextndd-04aug2025.do" (for Stata) can replicate "Probit Estimates" and "Actual and Counterfactual Treatment Effects". It includes a program called "polextndd" to present the latter results. Syntax and example of the program are provided below.
 
