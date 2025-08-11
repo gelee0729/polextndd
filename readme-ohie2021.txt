@@ -21,6 +21,6 @@ Obs: 9321
 15. Chf: =1 if diagnosis with congestive heart failure
 16. Educoll: =1 if 2-year college education or higher
 17. Employed
-18. Famincat: household income category from 1 ($0) to 22 (>$50,000)
+18. Income: household income category from 1 ($0) to 22 (>$50,000)
 
 Reference: Finkelstein, A., 2013, Oregon health insurance experiment public use data, available at http://www.nber.org/oregon/data.html.
