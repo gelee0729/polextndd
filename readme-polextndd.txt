@@ -8,7 +8,7 @@ example :
 . global s "s"
 . global q "q"
 . global d "d"
-. global w "age agesq medicost female white msa diabetes copd chf educoll employed famincat"
+. global w "age agesq medicost female white msa diabetes copd chf educoll employed income"
 
 . polextndd ${y} ${s} ${q} ${d} ${w}
 
