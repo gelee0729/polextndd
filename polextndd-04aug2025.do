@@ -7,13 +7,13 @@ clear all
 
 /* when using ohie2021.txt */
 import delimited id wage y s q d age agesq medicost female white msa diabetes ///
-	copd chf educoll employed famincat using ohie2021.txt, clear
+	copd chf educoll employed income using ohie2021.txt, clear
 
 global y "y"
 global s "s"
 global q "q"
 global d "d"
-global w "age agesq medicost female white msa diabetes copd chf educoll employed famincat"
+global w "age agesq medicost female white msa diabetes copd chf educoll employed income"
 * */
 
 /* when using bumi2021.txt *
