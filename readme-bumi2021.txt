@@ -16,8 +16,8 @@ Obs: 11647
 10. Ed2: =1 if primary education
 11. Ed3: =1 if secondary education
 12. Ed4: =1 if tertiary education
-13. Ind2: =1 if employed in agriculture
-14. Ind3: =1 if employed in fishing
-15. Ind4: =1 if employed in mining
+13. Ind2: =1 if employed in manufacture/electricity/gas/construction
+14. Ind3: =1 if employed in sales/restaurants/transportation/communication
+15. Ind4: =1 if employed in finance/public service/health service/education
 
 Source: Integrated Public Use Microdata Series International of the Minnesota Population Center
