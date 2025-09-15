@@ -1,4 +1,4 @@
-Replication data for "Extending Policies to Control Groups or Past Periods in Nonlinear Difference in Differences" by Eugene Lee, Myoung-jae Lee, and Goeun Lee (Applied Economics, 2025, forthcoming)
+Replication data for "Extending Policies to Control Groups or Past Periods in Nonlinear Difference in Differences" by Eugene Lee, Myoung-jae Lee, and Goeun Lee (Applied Economics, 2025, Advance online publication)
 
 bumi2021.txt
 
